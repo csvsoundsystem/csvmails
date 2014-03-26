@@ -2,6 +2,7 @@ Last week a few of us got together to work on some coding stuff after work. It w
 
 If you're down for week two, we're gonna be at think coffe on mercer and 4th starting at 6:45 cause they have tables, wifi, good coffee according to marc georges and soup. 
 
+````
 #################
 #               #
 #      See      #
@@ -26,3 +27,4 @@ end note
                 #        S     list serv ? #
                 #                          #
                 ############################
+````
